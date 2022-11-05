@@ -1,0 +1,59 @@
+:root{
+
+}
+
+body{
+
+}
+.link{
+    text-decoration: none;
+}
+
+.tittle{
+    color: #fff;
+}
+
+/* header */
+.header{
+    background: #0F0F0F;
+}
+
+.logo{
+    color: #fff;
+}
+
+.header-nav-link{
+    color: #969696;
+
+}
+
+/* hero */
+.hero{
+background-image: url(../images/hero-bgimage.jpg);
+padding-top: 160px;
+padding-bottom: 160px;
+text-align: center;
+}
+.hero-tittle{
+    color: #fff;
+}
+.hero-subtitle{
+    color: #fff;
+}
+.hero-text{
+    color: #fff;
+    width: 730px;
+}
+.hero-name{
+    padding: 94px 68px;
+    width: 320px;
+    border: 4px solid #FFFFFF;
+}
+
+/* new-collection */
+.new-season{
+background: #000000;
+}
+.new-coll{
+    background-image: url(../images/newcollbgc.jpg);
+}
